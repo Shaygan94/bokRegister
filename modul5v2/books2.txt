@@ -1,0 +1,33 @@
+fsdf-erre
+1994-02-04
+Scarface
+James Gosling
+500
+CRIME
+2
+1
+Introduction
+30
+---
+fff-erre
+1894-02-04
+Warcraft
+Arthas Menethil
+700
+FANTASY
+1
+1
+Intro
+40
+---
+isbn3
+1900-03-03
+title3
+author3
+400
+ACTION
+2
+1
+chapter3
+2
+---
